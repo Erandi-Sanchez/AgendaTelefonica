@@ -1,0 +1,14 @@
+# Ignora archivos compilados de Java
+*.class
+*.log
+
+# Ignora carpetas de IDE y generadas
+/.idea/
+/out/
+/target/
+*.iml
+*.iws
+
+# Ignora archivos temporales
+*.tmp
+*.bak
